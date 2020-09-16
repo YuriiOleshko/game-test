@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/game-test/static/css/main.ddc00b63.chunk.css",
+    "main.js": "/game-test/static/js/main.1cfdd127.chunk.js",
+    "main.js.map": "/game-test/static/js/main.1cfdd127.chunk.js.map",
+    "runtime-main.js": "/game-test/static/js/runtime-main.c33e2d26.js",
+    "runtime-main.js.map": "/game-test/static/js/runtime-main.c33e2d26.js.map",
+    "static/css/2.764ccc25.chunk.css": "/game-test/static/css/2.764ccc25.chunk.css",
+    "static/js/2.44748925.chunk.js": "/game-test/static/js/2.44748925.chunk.js",
+    "static/js/2.44748925.chunk.js.map": "/game-test/static/js/2.44748925.chunk.js.map",
+    "static/js/3.0f53e551.chunk.js": "/game-test/static/js/3.0f53e551.chunk.js",
+    "static/js/3.0f53e551.chunk.js.map": "/game-test/static/js/3.0f53e551.chunk.js.map",
+    "index.html": "/game-test/index.html",
+    "precache-manifest.cb26f9deda96c90d997a05865d6d50f2.js": "/game-test/precache-manifest.cb26f9deda96c90d997a05865d6d50f2.js",
+    "service-worker.js": "/game-test/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/game-test/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.ddc00b63.chunk.css.map": "/game-test/static/css/main.ddc00b63.chunk.css.map",
+    "static/js/2.44748925.chunk.js.LICENSE.txt": "/game-test/static/js/2.44748925.chunk.js.LICENSE.txt",
+    "static/js/3.0f53e551.chunk.js.LICENSE.txt": "/game-test/static/js/3.0f53e551.chunk.js.LICENSE.txt",
+    "static/media/533354__snapper4298__intro-outro-sequence-90bpm.wav": "/game-test/static/media/533354__snapper4298__intro-outro-sequence-90bpm.6ce75567.wav",
+    "static/media/Main.scss": "/game-test/static/media/bg-game.66b62cf0.png",
+    "static/media/volume.svg": "/game-test/static/media/volume.2724d6c5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c33e2d26.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.44748925.chunk.js",
+    "static/css/main.ddc00b63.chunk.css",
+    "static/js/main.1cfdd127.chunk.js"
+  ]
+}
